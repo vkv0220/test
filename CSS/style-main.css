@@ -2,7 +2,14 @@ h1 {
   color: lightgreen;
   background-color: #232427;
   font-weight: 500;
+  font-size: bold;
 }
-td {
+
+tr {
   border: 2px dotted lightgrey;
+  background-color: lightgreen;
+}
+table {
+          -webkit-box-shadow: 2px 2px 2px red;
+                  box-shadow: 2px 2px 2px red;
 }
